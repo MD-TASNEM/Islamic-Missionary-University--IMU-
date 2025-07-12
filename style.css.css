@@ -1,0 +1,115 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+
+header nav  {
+    display: flex;
+}
+
+
+ header nav a img {
+    height: 40px;
+    width: 60px;
+    padding: 10px;
+
+}
+
+.logohover:hover{
+    background-color: black;
+}
+
+
+header nav ul {
+    display: flex;
+    color: #ffffff;
+    list-style: none;
+    padding-top: 7px;
+    color: #ffffff;
+}
+
+
+header nav ul li {
+    list-style: none;
+    font-size: 20px;
+
+    padding: 9px;
+}
+
+header nav ul li:hover {
+    background-color: black;
+}
+
+
+header nav ul li a {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+
+.cover {
+    display: flex;
+    background-color: rgb(19, 188, 83);
+
+}
+
+
+
+header nav {
+    background-image: url(MASJID\ Al\ AQSA.jpg);
+    background-repeat:no-repeat;
+    background-size: cover;
+    height: 700px;
+
+}
+
+
+
+
+
+.qute{
+    padding-top: 220px;
+    font-size: 30px;
+    color: #ffffff;
+
+}
+
+.qute-ref{
+    text-align: right;
+    padding-right: 10%;
+    font-size: 30px;
+    color: #ffffff;
+
+}
+
+
+.login form {
+    padding: 250px;
+    padding-top: 600px;
+}
+
+.email {
+
+
+    background-color: #696169;
+    box-decoration-break: slice;
+}
+
+
+
+.password {
+
+    padding: 10px;
+    background-color: burlywood;
+}
+
+
+.login-icon{
+
+    padding: 10px;
+    background-color: burlywood;
+
+}
+
+
